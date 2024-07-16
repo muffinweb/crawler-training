@@ -24,7 +24,7 @@
     </style>
 </head>
 <body>
-    <h2>This is Crawler Training Page</h2>
+    <h2>Symfony Crawler Training Page</h2>
     <table>
         <thead>
             <tr>
